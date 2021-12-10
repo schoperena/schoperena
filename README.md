@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schoperena
-- 👀 I’m interested in data science and machine leraning
+- 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning python
 
 <!---
